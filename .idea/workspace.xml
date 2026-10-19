@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b30956f7-2d31-4637-84e2-62c621db2be1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/9.4.1/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.4.1/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.4.1/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.4.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.4.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.6.0/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.6.0/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.6.0/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.6.0/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.6.0/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.6.0/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.6.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.6.0/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.6.0/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.6.0/kotlin-dsl-plugin-entries/jar-entries.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.6.0/kotlin-dsl-plugin-entries/kotlin-dsl-plugin-entries.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/dev/cazimir/voicevault/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/Config.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/assistant/AssistIntentActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/assistant/NoOpRecognitionService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/assistant/VoiceVaultVoiceInteractionService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/assistant/VoiceVaultVoiceInteractionSession.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/assistant/VoiceVaultVoiceInteractionSessionService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/capture/AudioRecorder.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/capture/CaptureAudioFocus.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/capture/CaptureEvents.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/capture/Haptics.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/capture/RecordingService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/capture/TapToStopActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/notify/CaptureNotifications.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/notify/PendingAudioActionReceiver.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/quicknote/QuickNoteActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/quicknote/QuickNoteWidgetProvider.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/transcribe/ModelDownloader.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/transcribe/ModelProvisioner.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/transcribe/Transcriber.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/transcribe/TranscriptionOutcome.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/transcribe/TranscriptionQueue.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/transcribe/WhisperTranscriber.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/vault/AtomicFileWriter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/vault/SafVaultStorage.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/vault/VaultFolderSelector.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/vault/VaultGrant.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/vault/VaultStorage.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/vault/VaultWriter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dev/cazimir/voicevault/vault/WavEncoder.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/widget_quick_note.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/interaction_service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/quick_note_widget_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/dev/cazimir/voicevault/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/dev/cazimir/voicevault/capture/FocusRefCountTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/dev/cazimir/voicevault/notify/CaptureNotificationsTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/dev/cazimir/voicevault/transcribe/TranscriptionQueueTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/dev/cazimir/voicevault/vault/VaultWriterTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/privacy-policy.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/screenshot-listening.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/screenshot-setup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/gradle-daemon-jvm.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/libs.versions.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keystore.properties.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/add-capture-health-indicator/.openspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/add-capture-health-indicator/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/add-capture-health-indicator/design.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/add-capture-health-indicator/proposal.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/add-capture-health-indicator/specs/capture-health/spec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/add-capture-health-indicator/specs/voice-capture/spec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/add-capture-health-indicator/tasks.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/add-pro-entitlement/.openspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/add-pro-entitlement/design.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/add-pro-entitlement/proposal.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/add-pro-entitlement/specs/pro-entitlement/spec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/add-pro-entitlement/tasks.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/add-pro-features/.openspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/add-pro-features/design.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/add-pro-features/proposal.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/add-pro-features/specs/capture-tuning/spec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/add-pro-features/specs/note-formatting/spec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/add-pro-features/specs/vault-destinations/spec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/add-pro-features/specs/vault-writing/spec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/add-pro-features/specs/voice-capture/spec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/add-pro-features/tasks.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/add-quick-text-capture/.openspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/add-quick-text-capture/design.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/add-quick-text-capture/proposal.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/add-quick-text-capture/specs/quick-text-capture/spec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/add-quick-text-capture/tasks.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/add-screen-off-stop/.openspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/add-screen-off-stop/proposal.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/add-screen-off-stop/specs/voice-capture/spec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/add-screen-off-stop/tasks.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/archive/2026-08-13-add-voice-note-capture/.openspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/archive/2026-08-13-add-voice-note-capture/design.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/archive/2026-08-13-add-voice-note-capture/proposal.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/archive/2026-08-13-add-voice-note-capture/specs/assistant-trigger/spec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/archive/2026-08-13-add-voice-note-capture/specs/offline-transcription/spec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/archive/2026-08-13-add-voice-note-capture/specs/vault-writing/spec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/archive/2026-08-13-add-voice-note-capture/specs/voice-capture/spec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/archive/2026-08-13-add-voice-note-capture/tasks.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/archive/2026-08-19-fix-transcription-failure-reporting/.openspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/archive/2026-08-19-fix-transcription-failure-reporting/design.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/archive/2026-08-19-fix-transcription-failure-reporting/proposal.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/archive/2026-08-19-fix-transcription-failure-reporting/specs/failure-diagnostics/spec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/archive/2026-08-19-fix-transcription-failure-reporting/specs/offline-transcription/spec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/archive/2026-08-19-fix-transcription-failure-reporting/specs/vault-writing/spec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/archive/2026-08-19-fix-transcription-failure-reporting/tasks.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/archive/2026-08-25-quiet-no-speech-alert/.openspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/archive/2026-08-25-quiet-no-speech-alert/design.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/archive/2026-08-25-quiet-no-speech-alert/proposal.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/archive/2026-08-25-quiet-no-speech-alert/specs/failure-diagnostics/spec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/archive/2026-08-25-quiet-no-speech-alert/specs/vault-writing/spec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/archive/2026-08-25-quiet-no-speech-alert/tasks.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/archive/2026-08-26-pause-audio-during-capture/.openspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/archive/2026-08-26-pause-audio-during-capture/design.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/archive/2026-08-26-pause-audio-during-capture/proposal.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/archive/2026-08-26-pause-audio-during-capture/specs/voice-capture/spec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/archive/2026-08-26-pause-audio-during-capture/tasks.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/archive/2026-09-07-migrate-vault-to-saf/.openspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/archive/2026-09-07-migrate-vault-to-saf/design.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/archive/2026-09-07-migrate-vault-to-saf/proposal.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/archive/2026-09-07-migrate-vault-to-saf/specs/vault-folder-selection/spec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/archive/2026-09-07-migrate-vault-to-saf/specs/vault-writing/spec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/changes/archive/2026-09-07-migrate-vault-to-saf/tasks.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/specs/assistant-trigger/spec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/specs/failure-diagnostics/spec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/specs/offline-transcription/spec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/specs/vault-folder-selection/spec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/specs/vault-writing/spec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openspec/specs/voice-capture/spec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[PhysicalDevice::serial=RZGL60FGWFK]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="VoiceVault" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="VoiceVault" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Kt7NwPkqvFyLZDLXjrz38VTthG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Android App.app.executor": "Run",
+    "CidrDebugProfileConversion": "true",
+    "Gradle.Load Gradle Dependencies.executor": "Run",
+    "Gradle.voice-vault [:app:testDebugUnitTest].executor": "Run",
+    "Gradle.voice-vault [testDebugUnitTest].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "com.google.services.firebase.aqiPopupShown": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "templates.modelproviders.configurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="VoiceVault.app" />
+      <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="ALLOW_ASSUME_VERIFIED" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="RESTORE_FRESH_INSTALL_ONLY" value="false" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Trace" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="voice-vault [:app:testDebugUnitTest]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":app:testDebugUnitTest" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <ExternalSystemDebugDisabled>false</ExternalSystemDebugDisabled>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <GradleProfilingDisabled>false</GradleProfilingDisabled>
+      <GradleCoverageDisabled>false</GradleCoverageDisabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="voice-vault [testDebugUnitTest]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="testDebugUnitTest" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <ExternalSystemDebugDisabled>false</ExternalSystemDebugDisabled>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <GradleProfilingDisabled>false</GradleProfilingDisabled>
+      <GradleCoverageDisabled>false</GradleCoverageDisabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.voice-vault [:app:testDebugUnitTest]" />
+        <item itemvalue="Gradle.voice-vault [testDebugUnitTest]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b30956f7-2d31-4637-84e2-62c621db2be1" name="Changes" comment="" />
+      <created>1792364974556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792364974556</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="play_dynamic_filters_status">
+    <option name="appIdToCheckInfo">
+      <map>
+        <entry key="dev.cazimir.voicevault">
+          <value>
+            <CheckInfo lastCheckTimestamp="1792371365919" />
+          </value>
+        </entry>
+        <entry key="dev.cazimir.voicevault.test">
+          <value>
+            <CheckInfo lastCheckTimestamp="1792371365938" />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
